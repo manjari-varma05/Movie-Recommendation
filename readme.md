@@ -70,13 +70,13 @@ Movie_Recommendation_System/
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/<manjari-varma05>/<Movie-Recommendation>.git
 ```
 
 Move into the project directory
 
 ```bash
-cd <repository-name>
+cd <Movie-Recommendation>
 ```
 
 Install the required packages
@@ -98,7 +98,7 @@ streamlit run app.py
 - Select a movie from the dropdown
 - Click **Recommend**
 - View five similar movie recommendations
-- Display corresponding movie posters
+
 
 ---
 
@@ -129,7 +129,6 @@ streamlit run app.py
 
 **Manjari M Varma**
 
-LinkedIn: https://www.linkedin.com/in/<your-linkedin-id>/
 
 GitHub: https://github.com/manjari-varma05
 
